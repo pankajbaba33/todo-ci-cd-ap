@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="app">
       <div className="todo-card">
-        <h1>Todo App Items Add</h1>
+        <h1>Todo App multiples items Add</h1>
 
         <div className="todo-input-row">
           <label htmlFor="todo-input" className="sr-only">
